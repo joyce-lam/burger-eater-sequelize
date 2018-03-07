@@ -1,0 +1,26 @@
+h1 {
+	color: #FF2427;
+}
+
+img {
+	width:300px;
+	height: auto;
+}
+
+.devoured {
+	background-color: #F5E873;
+	color: #000;
+	padding: 6px 12px;
+	font-weight: 400;
+	text-align: centre;
+	border-radius: 4px;
+}
+
+#add-burger {
+	background-color: #FFB700;
+	color: #000;
+	padding: 6px 12px;
+	font-weight: 400;
+	text-align: centre;
+	border-radius: 4px;
+}
